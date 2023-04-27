@@ -1,0 +1,28 @@
+{
+  "name": "gettext.js-po-loader",
+  "version": "0.0.2",
+  "description": "gettext.js extension to load po file with webpack, based on po2json wrapper from Guillaume Potier",
+  "main": "gettext.js-po-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCimes/gettext.js-po-loader.git"
+  },
+  "author": "WebCimes",
+  "license": "MIT",
+  "keywords": [
+    "gettext.js",
+    "po loader",
+    "po file",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/WebCimes/gettext.js-po-loader/issues"
+  },
+  "homepage": "https://github.com/WebCimes/gettext.js-po-loader#readme",
+  "dependencies": {
+    "gettext.js": "^1.2.0"
+  }
+}
